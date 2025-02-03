@@ -1,1 +1,1 @@
-# ramz
+# teploblok.sbp
